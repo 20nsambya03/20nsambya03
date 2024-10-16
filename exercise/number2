@@ -1,0 +1,9 @@
+// Declare a variable to store the student's name
+let studentName = "samalie";
+
+// Declare a constant for the total number of students
+const totalStudents = 100;
+
+// Display the student's name and total number of students
+console.log("Student Name:", studentName);
+console.log("Total Students in IT Class:", totalStudents);
